@@ -66,5 +66,7 @@ export default class GoogleAnalyticsApplicationCustomizer
     //Dialog.alert(`Hello from ${strings.Title}:\n\n${message}`);
 
     //return Promise.resolve();
+    //this is now proper documented Thanks.
+      //this is now proper documented Thanks. It is a solution of issue #3
   }
 }
