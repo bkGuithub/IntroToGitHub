@@ -67,5 +67,6 @@ export default class GoogleAnalyticsApplicationCustomizer
 
     //return Promise.resolve();
     //this is now proper documented Thanks.
+      //this is now proper documented Thanks. It is a solution of issue #3
   }
 }
